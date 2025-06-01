@@ -1,6 +1,12 @@
 {
-  "name": "PawCoin",
-  "symbol": "PAW",
-  "description": "PawCoin is a fun memecoin inspired by our love for pets, especially dogs and cats. With a friendly and active community, PawCoin aims to be a symbol of happiness and friendship in the crypto world. Join us and celebrate sweet moments with PawCoin, the memecoin that brings a smile to every transaction!",
-  "image": "https://raw.githubusercontent.com/Taufiq009988/Token-PAW/db8d2ba3ef35c4921c48a65d75e2d469751c51d2/3c338466-0fc2-4d14-ba1c-d9f699e41ee0.jpg"
+    "name": "PawCoin",
+    "symbol": "PAW",
+    "description": "PawCoin is a fun memecoin inspired by our love for pets, especially dogs and cats. With a friendly and active community, PawCoin aims to be a symbol of happiness and friendship in the crypto world. Join us and celebrate sweet moments with PawCoin, the memecoin that brings a smile to every transaction!",
+    "image": "https://raw.githubusercontent.com/Taufiq009988/Token-PAW/db8d2ba3ef35c4921c48a65d75e2d469751c51d2/3c338466-0fc2-4d14-ba1c-d9f699e41ee0.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]  
 }
